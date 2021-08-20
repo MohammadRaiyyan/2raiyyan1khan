@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2raiyyan1khan
+- 👋 Hi, I’m Mohammad Raiyyan
 - 👀 I’m interested in web Development 
 - 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on application development using React js
