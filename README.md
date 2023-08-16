@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammad Raiyyan
-- 👀 I’m a Frontend Developer
-- 🌱 Working on React js
+- 👀 I’m a React JS Developer
 - 💞️ I’m looking to collaborate on application development using React js
 <!---
 2raiyyan1khan/2raiyyan1khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
